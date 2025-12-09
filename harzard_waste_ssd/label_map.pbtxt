@@ -1,0 +1,19 @@
+item {
+  id: 1
+  name: "Used_Battery"
+}
+
+item {
+  id: 2
+  name: "Expired_Cosmetic"
+}
+
+item {
+  id: 3
+  name: "Tablet"
+}
+
+item {
+  id: 4
+  name: "Syringe"
+}

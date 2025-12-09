@@ -1,0 +1,29 @@
+<annotation>
+	<folder></folder>
+	<filename>frame_012-copy_jpg.rf.8fab0e70c29a7bf4c5e587f659c833d2.jpg</filename>
+	<path>frame_012-copy_jpg.rf.8fab0e70c29a7bf4c5e587f659c833d2.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Tablet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>157</xmin>
+			<xmax>207</xmax>
+			<ymin>162</ymin>
+			<ymax>206</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>

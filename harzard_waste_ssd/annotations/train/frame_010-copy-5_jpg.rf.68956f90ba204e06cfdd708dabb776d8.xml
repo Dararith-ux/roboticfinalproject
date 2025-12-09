@@ -1,0 +1,29 @@
+<annotation>
+	<folder></folder>
+	<filename>frame_010-copy-5_jpg.rf.68956f90ba204e06cfdd708dabb776d8.jpg</filename>
+	<path>frame_010-copy-5_jpg.rf.68956f90ba204e06cfdd708dabb776d8.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Expired_Cosmetic</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>96</xmin>
+			<xmax>183</xmax>
+			<ymin>125</ymin>
+			<ymax>209</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>

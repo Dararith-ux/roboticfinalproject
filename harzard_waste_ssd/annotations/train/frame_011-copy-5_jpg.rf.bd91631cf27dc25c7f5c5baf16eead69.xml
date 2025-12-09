@@ -1,0 +1,29 @@
+<annotation>
+	<folder></folder>
+	<filename>frame_011-copy-5_jpg.rf.bd91631cf27dc25c7f5c5baf16eead69.jpg</filename>
+	<path>frame_011-copy-5_jpg.rf.bd91631cf27dc25c7f5c5baf16eead69.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Used_Battery</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>125</xmin>
+			<xmax>199</xmax>
+			<ymin>160</ymin>
+			<ymax>227</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>

@@ -1,0 +1,29 @@
+<annotation>
+	<folder></folder>
+	<filename>frame_016-copy-3_jpg.rf.afb727fc890f7ea32e8d328f5389fadc.jpg</filename>
+	<path>frame_016-copy-3_jpg.rf.afb727fc890f7ea32e8d328f5389fadc.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Syringe</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>101</xmin>
+			<xmax>173</xmax>
+			<ymin>121</ymin>
+			<ymax>179</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>
