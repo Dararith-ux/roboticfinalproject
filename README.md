@@ -1,8 +1,4 @@
-Perfect! Based on what you just wrote, I can create a **complete `README.md`** for your **Robotic Hazard Waste Detection** project, formatted nicely for GitHub. Here’s the full code:
 
----
-
-```markdown
 # 🤖 Robotic Hazard Waste Detection
 
 An **intelligent autonomous system** that leverages **computer vision** and **deep learning** to identify and classify hazardous waste materials in **real-time**. This project is designed to enhance **safety protocols** and streamline **waste management** in hazardous environments.
@@ -123,3 +119,4 @@ If you want, I can also make a **version with badges, project screenshots, and s
 
 Do you want me to do that?
 ```
+
