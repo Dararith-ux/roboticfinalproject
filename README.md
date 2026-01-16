@@ -111,12 +111,8 @@ Email: *[your email]*
 
 This project is for **educational and research purposes**.
 
-```
-
----
-
-If you want, I can also make a **version with badges, project screenshots, and skill stats** so it looks very professional on GitHub.  
 
 Do you want me to do that?
 ```
+
 
