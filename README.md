@@ -103,7 +103,6 @@ python source/detect.py --model exported_model/ssd_model --input samples/
 
 **Dararith**
 GitHub: [https://github.com/Dararith-ux](https://github.com/Dararith-ux)
-Email: *[your email]*
 
 ---
 
