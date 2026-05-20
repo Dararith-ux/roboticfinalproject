@@ -105,13 +105,6 @@ python source/detect.py --model exported_model/ssd_model --input samples/
 GitHub: [https://github.com/Dararith-ux](https://github.com/Dararith-ux)
 
 ---
-
-## 📜 License
-
-This project is for **educational and research purposes**.
-
-
-Do you want me to do that?
 ```
 
 
